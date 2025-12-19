@@ -1,25 +1,18 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Grand Archive",
+		"replaces": "Palace",
+		"uniqueTo": "Versata",
+		"cost": 0,
+		"happiness": 1,
+		"culture": 1,
+		"science": 3 ,
+		"maintenance": 0,
+		"gold": 3,
+		"production": 3,
+		"cityStrength": 3,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"uniques": ["Indicates the capital city"],
+		"greatPersonPoints": {"Great Engineer": 1},{"Great Scientist": 1},{"Great Merchant": 1},{"Great Artist": 1},
 	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
 ]
