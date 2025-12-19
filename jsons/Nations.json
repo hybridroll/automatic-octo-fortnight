@@ -29,8 +29,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "[+100]% Great Person generation [in the capitol]",
-		"unique": "Unable to capture cities", 
+		"unique": ["[+100]% Great Person generation [in the capitol]", "Unable to capture cities"], 
 		"cities": ["Gallantport"]
 	}
 ]
