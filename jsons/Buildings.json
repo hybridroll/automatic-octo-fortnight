@@ -12,6 +12,6 @@
 		"production": 0,
 		"cityStrength": 5,
 		"isNationalWonder": true,
-		"uniques": ["Indicates the capital city", "[4] free [Great Person] units appear"],
+		"uniques": ["Indicates the capital city", "Free Great Person"],
 	},
 ]
