@@ -66,13 +66,7 @@
 		"uniqueName": "Method of the Hidden Peak",
 		"uniques": [
 			"Gain an extra spy <upon entering a new era>",
-			"[+1000]% spy effectiveness [in all cities]",
-			"Reveals the entire map",
-			"Can spend Gold to annex or puppet a City-State that has been your Ally for [3] turns",
-			"May not annex cities",
-			"May bu items in puppet cities"
-
-			
+			"New spies start with [10] level(s)"
 		], 
 		"cities": ["Hidden Peaks"]
 	}
