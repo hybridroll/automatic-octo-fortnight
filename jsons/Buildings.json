@@ -12,7 +12,8 @@
 		"production": 3,
 		"cityStrength": 0,
 		"isNationalWonder": true,
-		"uniques": ["Indicates the capital city", "Free Great Person", "[+1 Gold, +1 Production, +1 Culture, +1 Science, +1 Faith] from every specialist [in the capitol]"],
+		"uniques": ["Indicates the capital city", "Free Great Person",
+			"[+1 Gold, +1 Production, +1 Culture, +1 Science, +1 Faith] from every specialist [in capital]"],
 		
 	},
 ]
