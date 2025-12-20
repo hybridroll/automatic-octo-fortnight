@@ -12,6 +12,7 @@
 	{
 		"name": "Founder of the Hidden Peaks",
 		"unitType": "Civilian",
+		"replaces": "Settler",
 		"movement": 0,
 		"cost": 0,
 		"uniques": ["Founds a new city <by consuming this unit>",
@@ -23,6 +24,7 @@
 		"unitType": "Scout",
 		"replaces": "Warrior",
 		"movement": 2,
+		"strength": 1,
 		"RangedStrength": 10,
 		"range": 2,
 		"cost": 0,
