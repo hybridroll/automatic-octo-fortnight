@@ -1,18 +1,11 @@
 [
 	{
-		"name": "Reporter",
-		"unitType": "Archery",
+		"name": "Artisan",
+		"unitType": "Civilian",
 		"uniqueTo": "Versata",
-		"replaces": "Archer",
+		"replaces": "Worker",
 		"movement": 2,
-		"strength": 6,
-		"rangedStrength": 0,
-		"range": 2,
 		"cost": 30,
-		"requiredTech": "Archery",
-		"obsoleteTech": "Machinery",
-		"upgradesTo": "Great Artist",
-		"attackSound": "nonmetalhit",
-		"unique": ["Cannot be purchased", "Limited to [1] per Civilization", "[Great Artist] is earned [+20]% faster"]
+		"uniques": ["Can build [Land] improvements on tiles","Can upgrade to [Great Artist]","Uncapturable", "Limited to [1] per Civilization", "[Great Artist] is earned [+20]% faster"]
 	}
 ]
