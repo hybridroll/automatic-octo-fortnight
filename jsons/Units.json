@@ -15,8 +15,7 @@
 		"replaces": "Settler",
 		"movement": 2,
 		"cost": 0,
-		"uniques": ["Founds a new city <by consuming this unit>",
-			"Can pass through impassable tiles", "Unavailable"],
+		"uniques": ["Founds a new city <by consuming this unit>", "Unavailable"],
 		"uniqueTo": "Absenta",	
 	},
 	{
@@ -26,8 +25,7 @@
 		"movement": 2,
 		"strength": 9999,
 		"cost": 0,
-		"uniques": ["Invisible to others","May capture killed [all] units",
-			"Can pass through impassable tiles", "Unavailable"],
+		"uniques": ["Invisible to others","May capture killed [all] units", "Unavailable"],
 		"uniqueTo": "Absenta",
 	}
 ]
