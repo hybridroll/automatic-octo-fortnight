@@ -8,5 +8,16 @@
 		"cost": 30,
 		"uniques": ["Can build [Land] improvements on tiles","Can upgrade to [Great Artist]",
 			"Uncapturable", "Limited to [1] per Civilization", "[Great Artist] is earned [+20]% faster"]
+	},
+	{
+		"name": "Founder of the Hidden Peaks",
+		"unitType": "Civilian",
+		"movement": 0,
+		"cost": 0,
+		"uniques": ["Founds a new city <by consuming this unit>","Can pass through impassable tiles", "Unavailable"],
+		"uniqueTo": "Absenta",
+
+
+		
 	}
 ]
