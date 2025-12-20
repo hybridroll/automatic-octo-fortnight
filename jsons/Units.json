@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "Agent of the Hidden Peaks",
-		"unitType": "Scout",
+		"unitType": "Civilian",
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 10,
