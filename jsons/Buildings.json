@@ -16,4 +16,16 @@
 			"[+1 Gold, +1 Production, +1 Culture, +1 Science, +1 Faith] from every specialist [in capital]"],
 		
 	},
+{
+		"name": "High Tower of the Hidden Peaks",
+		"replaces": "Palace",
+		"uniqueTo": "Absenta",
+		"cost": 0,
+		"happiness": 0,
+		"maintenance": 0,
+		"isNationalWonder": true,
+		"uniques": ["[+2 Food, +2 Production, +2 Science, +2 Culture, +2 Gold, +2 Faith] from [Mountain] tiles [in this city]", "Indicates the capital city",
+		"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns <(modified by game speed)>"],		
+	}
+	
 ]
