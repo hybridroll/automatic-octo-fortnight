@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Grand Archive",
+		"name": "Grand Archive of Versata",
 		"replaces": "Palace",
 		"uniqueTo": "Versata",
 		"cost": 0,
@@ -25,7 +25,8 @@
 		"maintenance": 0,
 		"isNationalWonder": true,
 		"uniques": ["[+2 Food, +2 Production, +2 Science, +2 Culture, +2 Gold, +2 Faith] from [Mountain] tiles [in this city]", "Indicates the capital city",
-		"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns <(modified by game speed)>"],		
+		"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns <(modified by game speed)>",
+		],		
 	}
 	
 ]
