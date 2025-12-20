@@ -32,5 +32,42 @@
 		"uniques": ["[+100]% Great Person generation", "Unable to capture cities",
 			"[1] population [in capital] <during a Golden Age> <with [10]% chance>"], 
 		"cities": ["Gallantport"]
+	},
+	{
+		"name": "Absenta",
+		"leaderName": "Maestro Moto",
+		"adjective": ["absent"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "We know you.",
+		"startIntroPart2": "And other things as well...",
+		
+		"declaringWar": "Have you not seen this coming?",
+		"attacked": "We have seen this coming.",
+		"defeated": "This is all part of a greater plan.",
+		"introduction": "We know a lot about you.",
+		
+		"neutralHello": "Oh. Hello.",
+		"neutralLetsHearIt": ["Please, take a seat..."],
+		"neutralNo": ["This is not in our interests."],
+		"neutralYes": ["This is interesting indeed..."],
+
+		"hateHello": "Oh. It's You.",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["Leave."],
+		"hateYes": ["Agreed."],
+		
+		"afterPeace": "Very well. Peace is in your best interest.",
+		"tradeRequest": "Are you interested in an exchange?",
+
+		"outerColor": [10,10,10],
+		"innerColor": [150,150,150],
+		"uniques": ["Gain an extra spy <upon entering a new era>", "Cannot build [Land Unit] units",
+			"Promotes all spies [1] time <upon entering a new era>",
+			"[+100]% spy effectiveness [in all cities]"
+		], 
+		"cities": ["Hidden Peaks"]
 	}
+	
 ]
