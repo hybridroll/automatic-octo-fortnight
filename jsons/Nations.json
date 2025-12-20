@@ -29,8 +29,8 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniques": ["[+100]% Great Person generation [in all cities]", "Unable to capture cities",
-			"[1] population [in all cities] <during a Golden Age> <with [10]% chance>"], 
+		"uniques": ["[+100]% Great Person generation", "Unable to capture cities",
+			"[1] population [in capital] <during a Golden Age> <with [10]% chance>"], 
 		"cities": ["Gallantport"]
 	}
 ]
