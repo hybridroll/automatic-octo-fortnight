@@ -37,7 +37,7 @@
 		"name": "Absenta",
 		"leaderName": "Maestro Moto",
 		"adjective": ["absent"],
-		"startBias": ["Mountain"],
+		"startBias": "Mountain",
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We know you.",
