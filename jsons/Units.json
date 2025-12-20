@@ -24,7 +24,7 @@
 		"unitType": "Civilian",
 		"replaces": "Warrior",
 		"movement": 2,
-		"strength": 10,
+		"strength": 9999,
 		"cost": 0,
 		"uniques": ["Invisible to others","May capture killed [Wounded] units",
 			"Can pass through impassable tiles", "Unavailable"],
