@@ -10,23 +10,27 @@
 			"Uncapturable", "Limited to [1] per Civilization", "[Great Artist] is earned [+20]% faster"]
 	},
 	{
-		"name": "Agent of the Hidden Peaks",
+		"name": "Agitator of the Hidden Peaks",
 		"unitType": "Scout",
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 2222,
 		"cost": 0,
-		"uniques": ["Invisible to others","May capture killed [all] units", "Can only attack non-[City] units"],
+		"uniques": ["Invisible to others",
+			"May capture killed [all] units",
+			"Can only attack non-[City] units"],
 		"uniqueTo": "Absenta",
 	},
 		{
-		"name": "Agitator of the Hidden Peaks",
+		"name": "Agent of the Hidden Peaks",
 		"unitType": "Civilian",
 		"replaces": "Settler",
 		"movement": 2,
 		"strength": 0,
 		"cost": 0,
-		"uniques": ["Invisible to others"],
+		"uniques": ["Invisible to others", 
+			"[100]% spy effectiveness [in all cities]", 
+			"Triggers voting for the Diplomatic Victory <by consuming this unit>"],
 		"uniqueTo": "Absenta",
 	}
 ]
