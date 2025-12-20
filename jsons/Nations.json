@@ -63,7 +63,9 @@
 
 		"outerColor": [10,10,10],
 		"innerColor": [150,150,150],
-		"uniques": ["Cannon build [all] units",
+		"uniques": [
+			"Cannot build [Military] units",
+			"Cannot build [Civilian] units",
 			"Gain an extra spy <upon entering a new era>",
 			"[100]% spy effectiveness [in all cities]",
 			"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns <(modified by game speed)>"
