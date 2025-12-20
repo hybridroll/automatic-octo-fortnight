@@ -18,7 +18,8 @@
 		"cost": 0,
 		"uniques": ["Invisible to others",
 			"May capture killed [all] units",
-			"Can only attack [Military] units"],
+			"Can only attack [Military] units",
+		"May upgrade to [Spearman] through ruins-like effects"],
 		"uniqueTo": "Absenta",
 	}
 ]
