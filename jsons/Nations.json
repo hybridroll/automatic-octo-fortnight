@@ -63,10 +63,11 @@
 
 		"outerColor": [10,10,10],
 		"innerColor": [150,150,150],
+		"uniqueName": "Method of the Hidden Peak",
 		"uniques": [
 			"Gain an extra spy <upon entering a new era>",
 			"Reveals the entire map",
-			"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns"
+			"Can spend Gold to annex or puppet a City-State that has been your Ally for [3] turns"
 		], 
 		"cities": ["Hidden Peaks"]
 	}
