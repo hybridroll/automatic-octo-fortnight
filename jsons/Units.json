@@ -18,7 +18,7 @@
 			"Can pass through impassable tiles", "Unavailable", "Great Person - [Founder of the Hidden Peaks]"],
 		"uniqueTo": "Absenta",	
 	},
-	
+	{
 		"name": "Agent of the Hidden Peaks",
 		"unitType": "Scout",
 		"replaces": "Warrior",
@@ -30,4 +30,5 @@
 			"Can pass through impassable tiles", "Unavailable", 
 			"Great Person - [Agent of the Hidden Peaks]"],
 		"uniqueTo": "Absenta",
+	}
 ]
