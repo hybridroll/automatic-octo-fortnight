@@ -11,12 +11,22 @@
 	},
 	{
 		"name": "Agent of the Hidden Peaks",
-		"unitType": "Civilian",
+		"unitType": "Scout",
 		"replaces": "Warrior",
 		"movement": 2,
-		"strength": 1000,
+		"strength": 2222,
 		"cost": 0,
 		"uniques": ["Invisible to others","May capture killed [all] units", "Can only attack non-[City] units"],
+		"uniqueTo": "Absenta",
+	},
+		{
+		"name": "Agitator of the Hidden Peaks",
+		"unitType": "Civilian",
+		"replaces": "Settler",
+		"movement": 2,
+		"strength": 0,
+		"cost": 0,
+		"uniques": ["Invisible to others"],
 		"uniqueTo": "Absenta",
 	}
 ]
