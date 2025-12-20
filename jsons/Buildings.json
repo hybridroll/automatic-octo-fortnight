@@ -20,12 +20,15 @@
 		"name": "High Tower of the Hidden Peaks",
 		"replaces": "Palace",
 		"uniqueTo": "Absenta",
-		"cost": 0,
-		"happiness": 0,
+		"culture": 1,
+		"science": 3,
 		"maintenance": 0,
+		"gold": 3,
+		"production": 3,
+		"cost": 0,
+		"cityStrength": 2.5,
 		"isNationalWonder": true,
-		"uniques": ["[+2 Food, +2 Production, +2 Science, +2 Culture, +2 Gold, +2 Faith] from [Mountain] tiles [in this city]", "Indicates the capital city",
-		"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns <(modified by game speed)>",
+		"uniques": ["Indicates the capital city"
 		],		
 	}
 	
