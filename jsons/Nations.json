@@ -68,7 +68,7 @@
 			"Cannot build [Civilian] units",
 			"Gain an extra spy <upon entering a new era>",
 			"[100]% spy effectiveness [in all cities]",
-			"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns <(modified by game speed)>"
+			"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns"
 		], 
 		"cities": ["Hidden Peaks"]
 	}
