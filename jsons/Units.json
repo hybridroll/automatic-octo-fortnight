@@ -10,14 +10,6 @@
 			"Uncapturable", "Limited to [1] per Civilization", "[Great Artist] is earned [+20]% faster"]
 	},
 	{
-		"name": "Founder of the Hidden Peaks",
-		"unitType": "Civilian",
-		"replaces": "Settler",
-		"movement": 2,
-		"cost": 0,
-		"uniqueTo": "Absenta",	
-	},
-	{
 		"name": "Agent of the Hidden Peaks",
 		"unitType": "Civilian",
 		"replaces": "Warrior",
