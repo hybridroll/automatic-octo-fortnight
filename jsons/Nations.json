@@ -29,7 +29,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniques": ["[100]% Great Person generation", "Unable to capture cities",
+		"uniques": ["[+100]% Great Person generation [in capital]", "Unable to capture cities",
 			"[1] population [in capital] <during a Golden Age> <with [10]% chance>"], 
 		"cities": ["Gallantport"]
 	},
@@ -63,7 +63,7 @@
 
 		"outerColor": [10,10,10],
 		"innerColor": [150,150,150],
-		"uniques": ["Gain an extra spy <upon entering a new era>", "Cannot build [Land Unit] units",
+		"uniques": ["Gain an extra spy <upon entering a new era>", "Cannot build [Civilian] units", "Unable to capture cities",
 			"Promotes all spies [1] time(s) <upon entering a new era>",
 			"[100]% spy effectiveness [in all cities]"
 		], 
