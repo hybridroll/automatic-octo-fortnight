@@ -18,7 +18,7 @@
 		"cost": 0,
 		"uniques": ["Invisible to others",
 			"May capture killed [all] units",
-			"Can only attack non-[City] units"],
+			"Can only attack [Military] units"],
 		"uniqueTo": "Absenta",
 	},
 		{
