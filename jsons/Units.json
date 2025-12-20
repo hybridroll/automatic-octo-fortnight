@@ -11,24 +11,14 @@
 	},
 	{
 		"name": "Agitator of the Hidden Peaks",
-		"unitType": "Scout",
+		"unitType": "Civilian",
 		"replaces": "Warrior",
 		"movement": 2,
-		"strength": 2222,
+		"strength": 15,
 		"cost": 0,
 		"uniques": ["Invisible to others",
 			"May capture killed [all] units",
 			"Can only attack [Military] units"],
-		"uniqueTo": "Absenta",
-	},
-		{
-		"name": "Agent of the Hidden Peaks",
-		"unitType": "Civilian",
-		"replaces": "Settler",
-		"movement": 2,
-		"sight": 1000,
-		"uniques": ["Invisible to others", 
-			"Triggers voting for the Diplomatic Victory <by consuming this unit>"],
 		"uniqueTo": "Absenta",
 	}
 ]
