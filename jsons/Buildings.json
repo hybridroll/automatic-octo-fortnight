@@ -28,7 +28,7 @@
 		"cost": 0,
 		"cityStrength": 2.5,
 		"isNationalWonder": true,
-		"uniques": ["Indicates the capital city", "[+1 Gold] per every [3] [Gold] <with [33]% chance>", "Free [Agitator] unit appears <upon turn start> <with [5]% chance>",
+		"uniques": ["Indicates the capital city", "[+1 Gold] per every [3] [Gold] <with [33]% chance>", "[-1 Happiness] from every specialist [in foreign cities]",
 		],		
 	}
 	
