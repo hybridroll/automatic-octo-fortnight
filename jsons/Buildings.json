@@ -4,7 +4,7 @@
 		"replaces": "Palace",
 		"uniqueTo": "Versata",
 		"cost": 0,
-		"happiness": 5,
+		"happiness": 0,
 		"culture": 0,
 		"science": 0,
 		"maintenance": 0,
@@ -12,6 +12,7 @@
 		"production": 0,
 		"cityStrength": 5,
 		"isNationalWonder": true,
-		"uniques": ["Indicates the capital city", "Free Great Person"],
+		"uniques": ["Indicates the capital city", "Free Great Person", "[+1 Gold, +1 Production, +1 Culture, +1 Science, +1 Faith] from every specialist [in the capitol]"],
+		
 	},
 ]
