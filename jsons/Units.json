@@ -6,6 +6,7 @@
 		"replaces": "Worker",
 		"movement": 2,
 		"cost": 30,
-		"uniques": ["Can build [Land] improvements on tiles","Can upgrade to [Great Artist]","Uncapturable", "Limited to [1] per Civilization", "[Great Artist] is earned [+20]% faster"]
+		"uniques": ["Can build [Land] improvements on tiles","Can upgrade to [Great Artist]",
+			"Uncapturable", "Limited to [1] per Civilization", "[Great Artist] is earned [+20]% faster"]
 	}
 ]
