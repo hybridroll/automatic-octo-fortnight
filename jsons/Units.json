@@ -29,7 +29,7 @@
 		"strength": 0,
 		"cost": 0,
 		"uniques": ["Invisible to others", 
-			"[100]% spy effectiveness [in all cities]", 
+			"[200]% spy effectiveness [in all cities]", 
 			"Triggers voting for the Diplomatic Victory <by consuming this unit>"],
 		"uniqueTo": "Absenta",
 	}
