@@ -29,5 +29,16 @@
 		"uniques": ["Invisible to others","May capture killed [Wounded] units",
 			"Can pass through impassable tiles", "Unavailable"],
 		"uniqueTo": "Absenta",
+	},
+
+		{
+		"name": "Agitator",
+		"unitType": "Civilian",
+		"replaces": "Scout",
+		"movement": 4,
+		"cost": 0,
+		"uniques": ["Invisible to others",
+			"Can pass through impassable tiles", "Unavailable", "Rebel units may spawn <for every adjacent [Mine]> <by consuming this unit>"],
+		"uniqueTo": "Absenta",
 	}
 ]
