@@ -16,7 +16,7 @@
 		"movement": 2,
 		"strength": 1000,
 		"cost": 0,
-		"uniques": ["Invisible to others","May capture killed [all] units"],
+		"uniques": ["Invisible to others","May capture killed [all] units", "Can only attack non-[City] units"],
 		"uniqueTo": "Absenta",
 	}
 ]
