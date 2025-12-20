@@ -15,7 +15,6 @@
 		"replaces": "Settler",
 		"movement": 2,
 		"cost": 0,
-		"uniques": ["Founds a new city <by consuming this unit>", "Unavailable"],
 		"uniqueTo": "Absenta",	
 	},
 	{
@@ -23,9 +22,9 @@
 		"unitType": "Civilian",
 		"replaces": "Warrior",
 		"movement": 2,
-		"strength": 9999,
+		"strength": 1000,
 		"cost": 0,
-		"uniques": ["Invisible to others","May capture killed [all] units", "Unavailable"],
+		"uniques": ["Invisible to others","May capture killed [all] units"],
 		"uniqueTo": "Absenta",
 	}
 ]
